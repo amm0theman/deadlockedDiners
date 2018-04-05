@@ -1,0 +1,39 @@
+[DEBUG] 2018-04-05 10:29:02.419 [Thread-3] Driver - Philosopher 3: Started
+[DEBUG] 2018-04-05 10:29:02.419 [Thread-1] Driver - Philosopher 1: Started
+[DEBUG] 2018-04-05 10:29:02.419 [Thread-4] Driver - Philosopher 4: Started
+[DEBUG] 2018-04-05 10:29:02.419 [Thread-2] Driver - Philosopher 2: Started
+[DEBUG] 2018-04-05 10:29:02.419 [Thread-0] Driver - Philosopher 0: Started
+[DEBUG] 2018-04-05 10:29:02.422 [Thread-3] Driver - Philosopher 3: Trying to get forks
+[DEBUG] 2018-04-05 10:29:02.419 [main] Driver - This is a debug message
+[DEBUG] 2018-04-05 10:29:02.422 [Thread-0] Driver - Philosopher 0: Trying to get forks
+[DEBUG] 2018-04-05 10:29:02.422 [Thread-4] Driver - Philosopher 4: Trying to get forks
+[DEBUG] 2018-04-05 10:29:02.422 [Thread-3] Driver - Philosopher 3: Got forks
+[DEBUG] 2018-04-05 10:29:02.423 [Thread-3] Driver - Philosopher 3: Eating
+[DEBUG] 2018-04-05 10:29:02.423 [Thread-2] Driver - Philosopher 2: Trying to get forks
+[DEBUG] 2018-04-05 10:29:02.423 [Thread-1] Driver - Philosopher 1: Trying to get forks
+[INFO ] 2018-04-05 10:29:02.423 [main] Driver - This is an info message
+[WARN ] 2018-04-05 10:29:02.424 [main] Driver - This is a warn message
+[ERROR] 2018-04-05 10:29:02.424 [main] Driver - This is an error message
+[FATAL] 2018-04-05 10:29:02.424 [main] Driver - This is a fatal message
+[DEBUG] 2018-04-05 10:29:12.424 [Thread-3] Driver - Philosopher 3: Done Eating
+[DEBUG] 2018-04-05 10:29:12.425 [Thread-3] Driver - Philosopher 3: Dropping Forks
+[DEBUG] 2018-04-05 10:29:12.425 [Thread-4] Driver - Philosopher 4: Got forks
+[DEBUG] 2018-04-05 10:29:12.425 [Thread-4] Driver - Philosopher 4: Eating
+[DEBUG] 2018-04-05 10:29:12.425 [Thread-3] Driver - Philosopher 3: Forks Dropped
+[DEBUG] 2018-04-05 10:29:12.425 [Thread-3] Driver - Philosopher 3: Pondering life
+[DEBUG] 2018-04-05 10:29:12.425 [Thread-2] Driver - Philosopher 2: Got forks
+[DEBUG] 2018-04-05 10:29:12.426 [Thread-2] Driver - Philosopher 2: Eating
+[DEBUG] 2018-04-05 10:29:17.426 [Thread-3] Driver - Philosopher 3: Done pondering
+[DEBUG] 2018-04-05 10:29:17.426 [Thread-3] Driver - Philosopher 3: Trying to get forks
+[DEBUG] 2018-04-05 10:29:22.425 [Thread-4] Driver - Philosopher 4: Done Eating
+[DEBUG] 2018-04-05 10:29:22.425 [Thread-4] Driver - Philosopher 4: Dropping Forks
+[DEBUG] 2018-04-05 10:29:22.425 [Thread-4] Driver - Philosopher 4: Forks Dropped
+[DEBUG] 2018-04-05 10:29:22.425 [Thread-0] Driver - Philosopher 0: Got forks
+[DEBUG] 2018-04-05 10:29:22.425 [Thread-4] Driver - Philosopher 4: Pondering life
+[DEBUG] 2018-04-05 10:29:22.425 [Thread-0] Driver - Philosopher 0: Eating
+[DEBUG] 2018-04-05 10:29:22.426 [Thread-2] Driver - Philosopher 2: Done Eating
+[DEBUG] 2018-04-05 10:29:22.426 [Thread-2] Driver - Philosopher 2: Dropping Forks
+[DEBUG] 2018-04-05 10:29:22.426 [Thread-3] Driver - Philosopher 3: Got forks
+[DEBUG] 2018-04-05 10:29:22.426 [Thread-2] Driver - Philosopher 2: Forks Dropped
+[DEBUG] 2018-04-05 10:29:22.426 [Thread-3] Driver - Philosopher 3: Eating
+[DEBUG] 2018-04-05 10:29:22.426 [Thread-2] Driver - Philosopher 2: Pondering life
