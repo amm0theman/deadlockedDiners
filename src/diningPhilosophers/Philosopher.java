@@ -50,6 +50,7 @@ public class Philosopher implements Runnable {
 	public void dropForks() {
 		System.out.println("Philosopher " + sitPosition + ": Dropping Forks");
 		logger.debug("Philosopher " + sitPosition + ": Dropping Forks");
+		/*
 		synchronized(leftFork) {
 			leftFork.setInUse(false);
 			leftFork = null;
@@ -60,6 +61,7 @@ public class Philosopher implements Runnable {
 		}
 		System.out.println("Philosopher " + sitPosition + ": Forks Dropped");
 		logger.debug("Philosopher " + sitPosition + ": Forks Dropped");
+		*/
 	}
 	
 	public void ponder() {
