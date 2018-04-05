@@ -1,1 +1,2 @@
 #diningPhilosophersNoDeadlock - my log4j files are external so won't be included in the git. Right click the project -> build path -> configure build path and then add external jars log4j-api-2.x.jar and log4j-core-2.x.jar to the build path. These are jars from the log4j 2 binaries of apache's website
+ User Bryce Riley shows up as the commiter because I'm pushing from my brothers pc where the git user is set to him. Also, log file is in the logs folder.
